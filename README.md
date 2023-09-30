@@ -3,8 +3,9 @@
 Inicializálás git clone után:
 ```
 npm init
+```
 
-// ez telepíti a lite-server-t és a bootstarp-et:
-
+Ez telepíti a lite-server-t és a bootstarp-et:
+```
 npm install 
 ```
