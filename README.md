@@ -14,3 +14,24 @@ Ez telepíti a lite-server-t és a bootstarp-et:
 ```
 npm install 
 ```
+
+IronbotPilot Git Repo klónozása: 
+```
+git clone https://github.com/KiralyPeter/IronbotPilot.git
+```
+Lokál repozitori szinkronizálása a GitHub-on lévő verzióval 
+(arra az esetre, ha a GitHub-on lévő verzió idő közben változott volna..)
+```
+git pull origin master
+```
+Új branch létrehozása
+```
+git checkout -b <branch név>
+```
+Ezt az új branch-et kellene fel 'push'-olni origin-re.\
+GitHub-on lesz a merge (normál esetben megfelelő mérlegelés után...)
+
+Az új branchj push-olása GitHub-ra (origin-re):
+```
+git push origin <branch név>
+```
