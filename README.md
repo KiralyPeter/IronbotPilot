@@ -14,6 +14,9 @@ Ez telepíti a lite-server-t és a bootstarp-et:
 ```
 npm install 
 ```
+Egyelőre ezt csinálja a jelenlegi verzió (az elemek nem akítvak):
+
+![Alt text](image-4.png)
 
 # IronbotPilot Git Repo klónozása: 
 ```
