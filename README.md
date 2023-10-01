@@ -14,6 +14,11 @@ Ez telepíti a lite-server-t és a bootstarp-et:
 ```
 npm install 
 ```
+..és elindítás:
+```
+npm start
+```
+
 Egyelőre ezt csinálja a jelenlegi verzió (az elemek nem akítvak):
 
 ![Alt text](image-4.png)
