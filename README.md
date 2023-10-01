@@ -15,10 +15,13 @@ Ez telepíti a lite-server-t és a bootstarp-et:
 npm install 
 ```
 
-IronbotPilot Git Repo klónozása: 
+# IronbotPilot Git Repo klónozása: 
 ```
 git clone https://github.com/KiralyPeter/IronbotPilot.git
 ```
+
+[Youtube példa link](https://youtu.be/MnUd31TvBoU)
+
 Lokál repozitori szinkronizálása a GitHub-on lévő verzióval 
 (arra az esetre, ha a GitHub-on lévő verzió idő közben változott volna..)
 ```
