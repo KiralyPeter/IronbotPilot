@@ -35,3 +35,30 @@ Az új branchj push-olása GitHub-ra (origin-re):
 ```
 git push origin <branch név>
 ```
+
+GitHib-on megjelenik a "Compare & pull request"
+
+![Alt text](image.png)
+
+Itt lehet átnézni a push-ban adott comment-et és további commentet lehet hagyni a "befogadó" által.
+
+Illetve el lehet indítani a Pull request-et, aminek hatására a projektben részt vevők számára értesítés megy (? nem tudom egyedül tesztelni.)
+
+![Alt text](image-1.png)
+
+Ha nincs konfliktus (amit a Git detektált volna), akkor be lehet merge-elni a brach-et a master-ba:
+
+![Alt text](image-2.png)
+
+Át lehet nézni a módosításokat:
+
+![Alt text](image-3.png)
+
+Visszacsekkolni a master-ra:
+```
+git checkout master
+```
+Utána ismét le kell frissíteniaz origin-en lévő master-t lokálba:
+```
+git pull origin master
+```
