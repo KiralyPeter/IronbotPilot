@@ -18,7 +18,7 @@ Egyelőre ezt csinálja a jelenlegi verzió (az elemek nem akítvak):
 
 ![Alt text](image-4.png)
 
-# IronbotPilot Git Repo klónozása: 
+# IronbotPilot Git Repo klónozása
 ```
 git clone https://github.com/KiralyPeter/IronbotPilot.git
 ```
