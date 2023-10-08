@@ -1,19 +1,27 @@
 {
   "name": "ironbot_pilot",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Pilot Projekt célja, hogy egy mintát adjon és \"kézzel fogható\" legyen egy elképzelés. Jelen állapotban csak egy \"mockup\", nem működő felületi elemekkel.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx lite-server"
   },
   "keywords": [],
-  "author": "",
+  "author": "Peter Kiraly",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.6.1"
   },
   "dependencies": {
     "bootstrap": "^5.3.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KiralyPeter/IronbotPilot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KiralyPeter/IronbotPilot/issues"
+  },
+  "homepage": "https://github.com/KiralyPeter/IronbotPilot#readme"
 }
